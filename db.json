@@ -1,0 +1,80 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Max",
+      "age": 23,
+      "gender": "man"
+    },
+    {
+      "id": 5,
+      "name": "Olya",
+      "age": 24,
+      "gender": "woman"
+    },
+    {
+      "id": 2,
+      "name": "Oleksay",
+      "age": 30,
+      "gender": "man"
+    },
+    {
+      "age": 26,
+      "id": 2
+    },
+    {
+      "id": 3,
+      "age": 26
+    },
+    {
+      "id": 6
+    },
+    {
+      "id": 7
+    },
+    {
+      "id": 8
+    },
+    {
+      "id": 9
+    },
+    {
+      "id": 11
+    },
+    {
+      "id": 12
+    },
+    {
+      "id": 13
+    },
+    {
+      "id": 14
+    },
+    {
+      "id": 15
+    },
+    {
+      "id": 16
+    },
+    {
+      "name": "Tilek",
+      "age": 23,
+      "id": 17
+    },
+    {
+      "name": "Tilek",
+      "age": 23,
+      "id": 18
+    },
+    {
+      "name": "Tilek",
+      "age": 23,
+      "id": 19
+    },
+    {
+      "name": "Tilek",
+      "age": 23,
+      "id": 20
+    }
+  ]
+}
